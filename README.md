@@ -10,5 +10,7 @@
 ## Code
 > Reinforcement Learning<br/>
 >> <a href="https://github.com/sustainable-computing/EnergyBoost">code1</a> <br/>
-> Stochastic Optimization<br/>
+
+> Optimization<br/>
 >> <a href="https://github.com/sustainable-computing/EnergyBoost">code1</a> <br/>
+>> CVXPY <a href="https://github.com/karlwalter/energy-opt">code2</a> <br/>
