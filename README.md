@@ -1,7 +1,7 @@
 # ESS_Control
 
 ## Papers
-> Reinforcement Learning
-> Stochastic Optimization
+> Reinforcement Learning<\br>
+> Stochastic Optimization<\br>
 
 ## Code
