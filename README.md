@@ -11,5 +11,4 @@
 > Reinforcement Learning<br/>
 >> <a href="https://github.com/sustainable-computing/EnergyBoost">github</a> <br/>
 > Stochastic Optimization<br/>
->> https://github.com/sustainable-computing/EnergyBoost
 >> <a href="https://github.com/sustainable-computing/EnergyBoost">github</a> <br/>
