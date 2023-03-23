@@ -9,6 +9,6 @@
 
 ## Code
 > Reinforcement Learning<br/>
->> <a href="https://github.com/sustainable-computing/EnergyBoost">github</a> <br/>
+>> <a href="https://github.com/sustainable-computing/EnergyBoost">code1</a> <br/>
 > Stochastic Optimization<br/>
->> <a href="https://github.com/sustainable-computing/EnergyBoost">github</a> <br/>
+>> <a href="https://github.com/sustainable-computing/EnergyBoost">code1</a> <br/>
