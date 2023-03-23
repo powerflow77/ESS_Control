@@ -1,5 +1,7 @@
 # ESS_Control
 
-## 논문
+## Papers
+> Reinforcement Learning
+> Stochastic Optimization
 
-## 코드
+## Code
